@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **CompTech Network System (pvt)Ltd**<br><br>- 💬 Ask me about **Cyber Security, Web Development, Networking**<br><br>- 📫 How to reach me **iahmed682@gmail.com**<br><br>-🌱 I’m currently learning Networking * Juniper *<br><br>- ⚡ Fun fact **I think Im Addatik Xd :)**
+- 🔭 I’m currently working on **CompTech Network System (pvt)Ltd**<br><br>- 💬 Ask me about **Cyber Security, DevOps, Networking**<br><br>- 📫 How to reach me **iahmed682@gmail.com**<br><br>-🌱 I’m currently learning Networking * Juniper *<br><br>- ⚡ Fun fact **I think Im Addatik Xd :)**
 
 
 ## 🌐 Socials:
