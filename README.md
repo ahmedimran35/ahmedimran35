@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Imran+Ahmed+👋;DevOps+Engineer+%7C+Cyber+Security+Specialist;MSc+Cybersecurity+%40+University+of+Hertfordshire;AI+Builder+%7C+R%26D+Enthusiast+%7C+Open+to+Work" alt="Typing SVG" />
-</div>
 
----
 
 ## 🧑‍💻 About Me
 
